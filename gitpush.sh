@@ -5,5 +5,6 @@ git add src/*.f90
 git add src/*.py
 git add src/*.sh
 git add src/Makefile
+git add *.ini
 git commit -m 'minor changes'
 git push
